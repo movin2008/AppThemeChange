@@ -1,5 +1,4 @@
-# AppThemeChange
-android 主题切换 皮肤切换 换肤 demo
+package com.shuiyes.theme;
 
 /**
  * 基于 LayoutInflaterFactory 主题/皮肤 切换方案
@@ -22,3 +21,5 @@ android 主题切换 皮肤切换 换肤 demo
  *
  * ps:和网上版本比，优化了实战中发现的部分问题，如View 资源是由 Style 配置的问题，代码动态设置资源问题等
  */
+public interface Readme {
+}
